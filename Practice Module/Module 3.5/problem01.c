@@ -2,5 +2,6 @@
 
 int main()
 {
+    
     printf("I Love Practice");
 }
