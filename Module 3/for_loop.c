@@ -6,4 +6,5 @@ int main()
     {
         printf("%d Hello\n",i);
     }
+    return 0;
 }
