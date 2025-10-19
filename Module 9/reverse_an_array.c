@@ -14,9 +14,9 @@ int main()
     int j = n-1;
     while (i < j)
     {
-        int tmp = a[i];
+        int temp = a[i];
         a[i] = a[j];
-        a[j] = tmp;
+        a[j] = temp;
         i++;
         j--;
     }
