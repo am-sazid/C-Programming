@@ -20,7 +20,7 @@ int main() {
             break;
         }
     }
-
+    
     if (!f)
         printf("-1");
 
