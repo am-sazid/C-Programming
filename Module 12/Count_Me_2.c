@@ -7,21 +7,40 @@ int main()
     scanf("%s",s);
 
     int sz = strlen(s);
-    char v[5] = {0};
     int vc = 0;
     for (int i = 0; i < sz; i++)
     {
-        int val = s[i];
-        v[val]++;
+        if (s[i] == 'a')
+        {
+            vc++;
+            
+        }
+        else if (s[i] == 'e')
+        {
+            vc++;
+            
+        }
+        else if (s[i] == 'i')
+        {
+            vc++;
+            
+        }
+        else if (s[i] == 'o')
+        {
+            vc++;
+            
+        }
+        else if (s[i] == 'u')
+        {
+            vc++;
+            
+        }
+        
+        
     }
 
-    for (int i = 0; i < 6; i++)
-    {
-        printf("%d ",v[i]);
-    }
-    
-    // int t = sz - vc;
-    // printf("%d",t);
+    int t = sz - vc;
+    printf("%d",t);
     
     return 0;
 }
