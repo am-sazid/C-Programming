@@ -1,0 +1,1 @@
+{"name":"Local: Good_Pair_Detector","url":"/media/sazid/Sazid/Phitron/C-Programming/Contest/Contest 1/Good_Pair_Detector.c","tests":[{"id":1761840738672,"input":"5\n1 2 3 4 5","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/sazid/Sazid/Phitron/C-Programming/Contest/Contest 1/Good_Pair_Detector.c","group":"local","local":true}
