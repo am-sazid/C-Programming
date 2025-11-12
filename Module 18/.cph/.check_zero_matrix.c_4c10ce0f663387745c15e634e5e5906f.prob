@@ -1,0 +1,1 @@
+{"name":"Local: check_zero_matrix","url":"/media/sazid/Sazid/Phitron/C-Programming/Module 18/check_zero_matrix.c","tests":[{"id":1762874663895,"input":"2 3\n0 0 0\n0 0 0\n0 0 0","output":"This is a Zero matrix"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/sazid/Sazid/Phitron/C-Programming/Module 18/check_zero_matrix.c","group":"local","local":true}

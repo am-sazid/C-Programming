@@ -1,0 +1,1 @@
+{"name":"Local: diagonal_matrix","url":"/media/sazid/Sazid/Phitron/C-Programming/Module 18/diagonal_matrix.c","tests":[{"id":1762887208191,"input":"3 3\n0 0 0\n0 0 0\n0 0 0","output":"diagonal matrix"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/sazid/Sazid/Phitron/C-Programming/Module 18/diagonal_matrix.c","group":"local","local":true}
